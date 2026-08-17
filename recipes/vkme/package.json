@@ -1,0 +1,12 @@
+{
+  "id": "vkme",
+  "name": "vkme",
+  "version": "0.0.1",
+  "license": "MIT",
+  "defaultIcon": "icon.svg",
+  "config": {
+    "serviceURL": "https://web.vk.me/",
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true
+  }
+}

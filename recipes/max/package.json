@@ -1,0 +1,12 @@
+{
+  "id": "max",
+  "name": "max",
+  "version": "0.0.1",
+  "license": "MIT",
+  "defaultIcon": "icon.svg",
+  "config": {
+    "serviceURL": "https://web.max.ru/",
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true
+  }
+}
