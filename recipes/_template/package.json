@@ -1,7 +1,12 @@
 {
+  "id":  "ferdium-recipe-template",
   "name": "ferdium-recipe-template",
-  "version": "1.0.0",
-  "description": "Template for a Ferdium recipe",
-  "main": "index.js",
-  "private": true
+  "version": "0.0.1",
+  "license": "MIT",
+  "defaultIcon": "icon.svg",
+  "config": {
+    "serviceURL": "https://example.ru/",
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true
+  }
 }
