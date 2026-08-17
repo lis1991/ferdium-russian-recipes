@@ -1,0 +1,7 @@
+{
+  "name": "ferdium-recipe-template",
+  "version": "1.0.0",
+  "description": "Template for a Ferdium recipe",
+  "main": "index.js",
+  "private": true
+}
