@@ -1,9 +1,9 @@
 {
   "id": "vkme",
   "name": "vkme",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "license": "MIT",
-  "defaultIcon": "icon.svg",
+  "defaultIcon": "https://cdn.jsdelivr.net/gh/lis1991/ferdium-russian-recipes@main/recipes/vkme/icon.svg",
   "config": {
     "serviceURL": "https://web.vk.me/",
     "hasNotificationSound": true,
