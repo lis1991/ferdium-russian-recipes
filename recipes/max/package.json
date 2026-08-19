@@ -1,9 +1,9 @@
 {
   "id": "max",
   "name": "max",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "license": "MIT",
-  "defaultIcon": "icon.svg",
+  "defaultIcon": "https://cdn.jsdelivr.net/gh/lis1991/ferdium-russian-recipes@main/recipes/max/icon.svg",
   "config": {
     "serviceURL": "https://web.max.ru/",
     "hasNotificationSound": true,
